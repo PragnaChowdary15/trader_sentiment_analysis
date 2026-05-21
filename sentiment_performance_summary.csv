@@ -1,0 +1,4 @@
+broad_sentiment,total_trades,total_pnl,avg_pnl,median_pnl,win_rate_%
+Fear,46016,3256425.527,70.767,0.0,42.1
+Greed,59372,3138388.36,52.86,0.0,39.3
+Neutral,25145,1257915.688,50.026,0.0,41.2
